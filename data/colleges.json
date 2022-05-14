@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "lightbulb",
+    "status": 2,
+    "collegeName": "University of Southern California",
+    "website": "https://www.usc.edu/"
+  },
+  {
+    "icon": "lightbulb",
+    "status": 1,
+    "collegeName": "University of California, Los Angeles",
+    "website": "https://www.ucla.edu/"
+  },
+  {
+    "icon": "lightbulb",
+    "status": 0,
+    "collegeName": "Stanford University",
+    "website": "https://www.stanford.edu/"
+  },
+  {
+    "icon": "lightbulb",
+    "status": 3,
+    "collegeName": "Cal-Poly Pomona",
+    "website": "https://www.cpp.edu/"
+  },
+  {
+    "icon": "lightbulb",
+    "status": 1,
+    "collegeName": "California State University, Los Angeles",
+    "website": "https://www.calstatela.edu/"
+  }
+]
